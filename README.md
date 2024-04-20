@@ -29,3 +29,10 @@ To run the project locally, follow these steps:
 ## Future Improvements
 - Add more challenging levels with shorter target times.
 - Implement a leaderboard to track high scores.
+
+
+##Screenshots
+
+[!screen1](https://github.com/Matilda-bit/stop-the-timer-game/blob/main/src/assets/Screenshot%202024-04-21%20at%2002.03.25.png?raw=true)
+[!screen2](https://github.com/Matilda-bit/stop-the-timer-game/blob/main/src/assets/Screenshot%202024-04-21%20at%2002.02.59.png?raw=true)
+[!screen3](https://github.com/Matilda-bit/stop-the-timer-game/blob/main/src/assets/Screenshot%202024-04-21%20at%2002.03.56.png?raw=true)
